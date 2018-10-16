@@ -1,6 +1,6 @@
-# Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
+# PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 
-## Understanding the Spring Petclinic application with a few diagrams
+## Understanding the Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
 ## Running petclinic locally
@@ -8,7 +8,7 @@ Petclinic is a https://spring.io/guides/gs/spring-boot[Spring Boot] application 
 
 
 ```
-git clone https://github.com/spring-projects/spring-petclinic.git
+git clone https://github.com/siddheshsalunke/petclinic.git
 cd spring-petclinic
 ./mvnw package
 java -jar target/*.jar
@@ -134,7 +134,7 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 The Spring PetClinic sample application is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 
-[spring-petclinic]: https://github.com/spring-projects/spring-petclinic
+[petclinic]: https://github.com/siddheshsalunke/petclinic
 [spring-framework-petclinic]: https://github.com/spring-petclinic/spring-framework-petclinic
 [spring-petclinic-angularjs]: https://github.com/spring-petclinic/spring-petclinic-angularjs 
 [javaconfig branch]: https://github.com/spring-petclinic/spring-framework-petclinic/tree/javaconfig
